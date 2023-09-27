@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-25T12:34:37 IST" name="Default suite" finished-at="2023-09-25T12:34:37 IST" duration-ms="176">
+    <groups>
+      <group name="functional TC">
+        <method signature="Flag6.ft1()[pri:0, instance:testNG_Annotations.Flag6@4be29ed9]" name="ft1" class="testNG_Annotations.Flag6"/>
+        <method signature="Flag6.ft2()[pri:0, instance:testNG_Annotations.Flag6@4be29ed9]" name="ft2" class="testNG_Annotations.Flag6"/>
+        <method signature="Flag6.ft3()[pri:0, instance:testNG_Annotations.Flag6@4be29ed9]" name="ft3" class="testNG_Annotations.Flag6"/>
+      </group> <!-- functional TC -->
+      <group name="smoke TC">
+        <method signature="Flag6.st1()[pri:0, instance:testNG_Annotations.Flag6@4be29ed9]" name="st1" class="testNG_Annotations.Flag6"/>
+        <method signature="Flag6.st2()[pri:0, instance:testNG_Annotations.Flag6@4be29ed9]" name="st2" class="testNG_Annotations.Flag6"/>
+        <method signature="Flag6.st3()[pri:0, instance:testNG_Annotations.Flag6@4be29ed9]" name="st3" class="testNG_Annotations.Flag6"/>
+      </group> <!-- smoke TC -->
+      <group name="integration TC">
+        <method signature="Flag6.it1()[pri:0, instance:testNG_Annotations.Flag6@4be29ed9]" name="it1" class="testNG_Annotations.Flag6"/>
+        <method signature="Flag6.it2()[pri:0, instance:testNG_Annotations.Flag6@4be29ed9]" name="it2" class="testNG_Annotations.Flag6"/>
+        <method signature="Flag6.it3()[pri:0, instance:testNG_Annotations.Flag6@4be29ed9]" name="it3" class="testNG_Annotations.Flag6"/>
+      </group> <!-- integration TC -->
+    </groups>
+    <test started-at="2023-09-25T12:34:37 IST" name="Default test" finished-at="2023-09-25T12:34:37 IST" duration-ms="176">
+      <class name="testNG_Annotations.Flag6">
+        <test-method signature="ft1()[pri:0, instance:testNG_Annotations.Flag6@4be29ed9]" started-at="2023-09-25T12:34:37 IST" name="ft1" finished-at="2023-09-25T12:34:37 IST" duration-ms="17" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ft1 -->
+        <test-method signature="ft2()[pri:0, instance:testNG_Annotations.Flag6@4be29ed9]" started-at="2023-09-25T12:34:37 IST" name="ft2" finished-at="2023-09-25T12:34:37 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ft2 -->
+        <test-method signature="ft3()[pri:0, instance:testNG_Annotations.Flag6@4be29ed9]" started-at="2023-09-25T12:34:37 IST" name="ft3" finished-at="2023-09-25T12:34:37 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ft3 -->
+        <test-method signature="it1()[pri:0, instance:testNG_Annotations.Flag6@4be29ed9]" started-at="2023-09-25T12:34:37 IST" name="it1" finished-at="2023-09-25T12:34:37 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- it1 -->
+        <test-method signature="it2()[pri:0, instance:testNG_Annotations.Flag6@4be29ed9]" started-at="2023-09-25T12:34:37 IST" name="it2" finished-at="2023-09-25T12:34:37 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- it2 -->
+        <test-method signature="it3()[pri:0, instance:testNG_Annotations.Flag6@4be29ed9]" started-at="2023-09-25T12:34:37 IST" name="it3" finished-at="2023-09-25T12:34:37 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- it3 -->
+        <test-method signature="st1()[pri:0, instance:testNG_Annotations.Flag6@4be29ed9]" started-at="2023-09-25T12:34:37 IST" name="st1" finished-at="2023-09-25T12:34:37 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- st1 -->
+        <test-method signature="st2()[pri:0, instance:testNG_Annotations.Flag6@4be29ed9]" started-at="2023-09-25T12:34:37 IST" name="st2" finished-at="2023-09-25T12:34:37 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- st2 -->
+        <test-method signature="st3()[pri:0, instance:testNG_Annotations.Flag6@4be29ed9]" started-at="2023-09-25T12:34:37 IST" name="st3" finished-at="2023-09-25T12:34:37 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- st3 -->
+      </class> <!-- testNG_Annotations.Flag6 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
